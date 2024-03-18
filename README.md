@@ -1,5 +1,5 @@
 
-https://t.me/efootballCheaterReport
+Telegram group channel: https://t.me/efootballCheaterReport
 
 Telegram group: https://t.me/eFootballxjbt
 
