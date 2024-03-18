@@ -1,7 +1,10 @@
 
 https://t.me/efootballCheaterReport
+
 Telegram group: https://t.me/eFootballxjbt
+
 Donation: https://www.paypal.com/paypalme/tacbin
+
 Feature list:
 > Use npcap api to sniff the udp traffic. Only support wired connection.  PS/XBOX players need a router/switch supporting port mirroring. Don't support VPN or proxy.
 > If VPN create a RAWIP interface, and wireshark can sniff the traffic, then the tool can either.
