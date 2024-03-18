@@ -7,14 +7,23 @@ Donation: https://www.paypal.com/paypalme/tacbin
 
 Feature list:
 > Use npcap api to sniff the udp traffic. Only support wired connection.  PS/XBOX players need a router/switch supporting port mirroring. Don't support VPN or proxy.
+> 
 > If VPN create a RAWIP interface, and wireshark can sniff the traffic, then the tool can either.
+> 
 > Analyse match mode. show oppoent/server's IP/port/location. Thank @SimplyTheTruth's contribution
+> 
 > Scan the server to get matches amount on it. If player's ISP blocks such scan activity, modify the filename with 'noscan' in it.
+> 
 > Packet loss rate is calculated by received messages. It reflects the quality of direction Server->you. Latency of PSP match is from tcping of the server. Latency of P2P match is from STUN message between two players.
+> 
 > Tcping the server every second during the match. A '.' for a successful try and  'X' for failure. '_' means having received a group of messages.  TCPING reflects the quality of direction You->Server. Consecutive 'XXX' means the direction You->Server is broken. It will be laggy in the game.
+> 
 > If the loss rate and latency changes a lot, a new line will display.
+> 
 > Every match will be logged in matchlog.csv file.
+> 
 > User can run the tool with parameter.  'eFootball_network_monitor_Q143552766.exe 2' means choose the second active network adapter as default.
+> 
 > colorful dot for different latency, press hh to get detail
 
 
