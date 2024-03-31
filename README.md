@@ -5,7 +5,7 @@ Telegram group: https://t.me/eFootballxjbt
 
 Donation: https://www.paypal.com/paypalme/tacbin
 
-Latest version : https://t.me/eFootballxjbt/19650
+Latest version : https://t.me/eFootballxjbt/20589
 
 Feature list:
 > Use npcap api to sniff the udp traffic. Only support wired connection.  PS/XBOX players need a router/switch supporting port mirroring. Don't support VPN or proxy.
@@ -30,6 +30,11 @@ Feature list:
 
 
 Modification history:
+20240327
+Show result of in game speed test
+Slow down scanning speed to get accurate result.
+
+
 20240315
 avoid incorrect traffic report
 Faster server test results
